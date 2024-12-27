@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilentCoder4
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning java || Python || EH & Cyber-sec
+- 🌱 I’m currently learning: java || Python || EH & Cyber-sec
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: proccess in 0001%
 
