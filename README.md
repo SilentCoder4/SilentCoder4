@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm silentcdoer4</h1>
 <h3 align="center">A cyber security enthusiastic person from India</h3>
-<img align= "right" width="400" src="![image](https://github.com/user-attachments/assets/8c917ddd-c5fd-4ea7-9f0e-063459a9ca29)
+<img align= "right" width="400" src="https://github.com/user-attachments/assets/8c917ddd-c5fd-4ea7-9f0e-063459a9ca29
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentcoder4&label=Profile%20views&color=0e75b6&style=flat" alt="silentcoder4" /> </p>
