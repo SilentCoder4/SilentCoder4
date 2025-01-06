@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silentcoder4&show_icons=true&locale=en&layout=compact" alt="silentcoder4" /></p>
 
 <h3 align="left">Profile Position:</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SilentCoder4&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SilentCoder4" alt="GitHub Streak" /></a>
