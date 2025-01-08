@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silentcoder4&show_icons=true&locale=en&layout=compact" alt="silentcoder4" /></p>
 
 <h3 align="left">Profile Position:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SilentCoder4&" alt="SilentCoder4" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=SilentCoder4&" alt="SilentCoder4" /></p>
