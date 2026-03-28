@@ -66,5 +66,5 @@ Python • Networking • Exploitation • Linux -->
 
 <h3 align="left">Profile Streak:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SilentCoder4&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SilentCoder4&theme=vue-dark&hide_border=true" />
 </p>
