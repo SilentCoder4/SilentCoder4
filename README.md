@@ -9,6 +9,34 @@
 SilentCoder4/SilentCoder4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h1 align="center">👨‍💻 SilentCoder4</h1>
+<h3 align="center">🔐 Cyber Security Enthusiast | Ethical Hacker | Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=silentcoder4&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Learner;Ethical+Hacker+in+Progress;Python+%7C+Java+Developer;Building+IDS+Systems" />
+</p>
+
+---
+
+## 🧠 About Me
+```bash
+> whoami
+SilentCoder4
+
+> skills --focus
+Cyber Security | Ethical Hacking | Programming
+
+> current_status
+Building Intrusion Detection Systems (IDS)
+
+> learning
+Python • Networking • Exploitation • Linux
+
 <h1 align="center">Hi 👋, I'm SilentCoder 4</h1>
 <h3 align="center">A cyber security enthusiastic person from India</h3>
 
