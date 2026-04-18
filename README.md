@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔍 Hands-on experience with **log analysis, vulnerability assessment, and security tools**  
 
-- 👨‍💻 Explore my projects:  
-  👉 [GitHub Portfolio](https://github.com/silentcoder4)  
+- 👨‍💻 Explore my projects: [GitHub Portfolio](https://github.com/SilentCoder4?tab=repositories)  
 
 - 🚀 My work focuses on **security tools, automation, and real-world attack simulations**  
 
