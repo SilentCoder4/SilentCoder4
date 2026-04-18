@@ -19,13 +19,23 @@ You can click the Preview link to take a look at your changes.
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Learner;Ethical+Hacker+in+Progress;Python+%7C+Java+Developer;Building+IDS+Systems" />
 </p>
 
-- 🔭 I’m currently working on **IDS**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Cyber Security & EH**
+- 🛡️ Completed **Intrusion Detection System (IDS)** with practical security implementation  
 
-- 👨‍💻 All of my projects are available at [https://github.com/silentcoder4/](https://github.com/silentcoder4/)
+- 👨‍💻 Aspiring **SOC Analyst (L1) & Penetration Tester**  
 
-- 📫 How to reach me **halderankit5460@gmail.com**
+- 🌱 Currently advancing in **Cyber Security, Ethical Hacking (EH), Threat Detection & Incident Response**  
+
+- 🔍 Hands-on experience with **log analysis, vulnerability assessment, and security tools**  
+
+- 👨‍💻 Explore my projects:  
+  👉 [GitHub Portfolio](https://github.com/silentcoder4)  
+
+- 🚀 My work focuses on **security tools, automation, and real-world attack simulations**  
+
+- 📫 Reach me at: **halderankit5460@gmail.com**  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
