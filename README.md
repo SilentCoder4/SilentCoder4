@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🛡️ Completed **Intrusion Detection System (IDS)** with practical security implementation  
 
-- 👨‍💻 Aspiring **SOC Analyst (L1) & Penetration Tester**  
+- 👨‍💻 Aspiring **Red Teamer, Penetration Tester, VAPT & ---**  
 
 - 🌱 Currently advancing in **Cyber Security, Ethical Hacking (EH), Threat Detection & Incident Response**  
 
