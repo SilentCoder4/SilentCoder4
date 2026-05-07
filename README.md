@@ -61,5 +61,5 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Profile Streak:</h3>
 <p align="center">
-  []https://streak-stats.demolab.com/?user=SilentCoder4&theme=dark&hide_border=true)<br/>
+  https://streak-stats.demolab.com/?user=SilentCoder4&theme=dark&hide_border=true
 </p>
