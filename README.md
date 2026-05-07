@@ -54,10 +54,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 </p>
 
-<!-- <h3 align="left">Languages:</h3>
+<h3 align="left">Languages:</h3>
 <p align="center"> not working
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentCoder4&layout=compact&theme=tokyonight&hide_border=true" />
-</p> --> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SilentCoder4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <h3 align="left">Profile Streak:</h3>
 <p align="center">
