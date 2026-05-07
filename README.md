@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="center"> not working
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SilentCoder4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
