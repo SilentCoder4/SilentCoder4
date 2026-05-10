@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silentcoder4&label=Profile%20views&color=0e75b6&style=flat" alt="silentcoder4" /> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Learner;Ethical+Hacker+in+Progress;Python+%7C+Java+Developer;Building+IDS+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cyber+Security+Learner;Red+Teamer;VAPT+|+Penetration+Tester;Python+%7C+Java+Developer+Bash" />
 </p>
 
 ## 🚀 About Me
